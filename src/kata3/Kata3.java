@@ -18,5 +18,5 @@ public class Kata3 {
         HistogramDisplay histo= new HistogramDisplay();
         histo.execute();
     }
-    
+    //gffdg
 }
